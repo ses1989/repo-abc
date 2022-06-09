@@ -1,4 +1,4 @@
-# Sitecore XM Cloud Preview Updated 12
+# Sitecore XM Cloud Preview Updated 
 
 ***NOTE: THIS SOLUTION IS NOT SUPPORTED BY SITECORE, CONTAINS PRE-RELEASE REFERENCES, AND WILL CONTAIN BUGS***
 

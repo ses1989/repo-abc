@@ -1,0 +1,23 @@
+{
+  "postActions": [
+    {
+      "populateSchema": {
+        "indexNames": null
+      }
+    },
+    {
+      "reindex": {
+        "indexNames": null
+      }
+    },
+    {
+      "publish": {
+        "path": "",
+        "languages": null,
+        "itemIds": null,
+        "target": "",
+        "republish": true
+      }
+    }
+  ]
+}
